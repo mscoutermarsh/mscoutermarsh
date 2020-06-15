@@ -30,8 +30,8 @@ module Whoop
     ""
   end
   def self.stats
-    now =  DateTime.now.iso8601
-    week_ago = (DateTime.now - 7).iso8601
+    now =  (DateTime.now - 1).iso8601
+    week_ago = (DateTime.now - 6).iso8601
 
     response = HTTParty.get("https://api-7.whoop.com/users/84081/cycles?end=#{now}&start=#{week_ago}",{
       headers: {"authorization" => "bearer #{ENV["WHOOP_KEY"]}" }
