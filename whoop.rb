@@ -30,8 +30,8 @@ module Whoop
     ""
   end
   def self.stats
-    now =  (DateTime.now - 1).iso8601
-    week_ago = (DateTime.now - 6).iso8601
+    now =  (DateTime.now - 1).iso8601.gsub("+00:00", "Z")
+    week_ago = (DateTime.now - 6).iso8601.gsub("+00:00", "Z")
     puts now
     puts week_ago
 
