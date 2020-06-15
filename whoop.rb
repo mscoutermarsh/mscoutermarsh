@@ -42,9 +42,11 @@ module Whoop
     data = []
 
     response.each do |day|
-      sleep = day["sleep"]["sleeps"].sum { |s| s["qualityDuration"] }
-      sleep = get_duration_hrs_and_mins(sleep)
-      data << [day["days"].first, sleep, day["recovery"]["restingHeartRate"]]
+      if day["sleep"]
+        sleep = day["sleep"]["sleeps"].sum { |s| s["qualityDuration"] }
+        sleep = get_duration_hrs_and_mins(sleep)
+        data << [day["days"].first, sleep, day["recovery"]["restingHeartRate"]]
+      end
     end
 
     MarkdownTables.make_table(labels, data, is_rows: true)
