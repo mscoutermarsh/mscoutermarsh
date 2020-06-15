@@ -8,3 +8,4 @@ gem "twitter"
 gem "pry"
 gem "httparty"
 gem 'dotenv-rails'
+gem 'markdown-tables'

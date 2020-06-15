@@ -1,6 +1,7 @@
 require 'dotenv/load'
 
 require_relative 'tweet_to_image.rb'
+require_relative 'whoop.rb'
 require 'twitter'
 require 'pry'
 
@@ -21,6 +22,8 @@ tweet_image = TweetToImage.url(tweet_id)
 template = File.open('README_TEMPLATE.md', 'r')
 text = template.read
 
+whoop_data = Whoop.stats
+
 f = File.new('README.md', 'w')
-f.write(text.gsub("<tweet-image-url>", tweet_image).gsub("<tweet-url>", tweet_url))
+f.write(text.gsub("<tweet-image-url>", tweet_image).gsub("<tweet-url>", tweet_url).gsub("<sleep-stats>", whoop_data))
 f.close

@@ -35,6 +35,7 @@ jobs:
        TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
        TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
        TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+       WHOOP_KEY: ${{ secrets.WHOOP_KEY }}
 
        HCTI_API_USER_ID: ${{ secrets.HCTI_API_USER_ID }}
        HCTI_API_KEY: ${{ secrets.HCTI_API_KEY }}

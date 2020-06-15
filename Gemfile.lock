@@ -58,6 +58,7 @@ GEM
     loofah (2.5.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
+    markdown-tables (1.1.1)
     memoizable (0.4.2)
       thread_safe (~> 0.3, >= 0.3.1)
     method_source (1.0.0)
@@ -117,6 +118,7 @@ PLATFORMS
 DEPENDENCIES
   dotenv-rails
   httparty
+  markdown-tables
   pry
   twitter
 
