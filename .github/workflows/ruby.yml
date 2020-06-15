@@ -1,0 +1,42 @@
+name: Ruby
+
+on:
+  schedule:
+    - cron: "0 /6 * * *"
+  push:
+    branches: 
+      - master
+    
+jobs:
+  test:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.6.5
+    - name: Install dependencies
+      run: bundle install
+    - name: Run tests
+      env:
+       TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+       TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+       TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+       TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+
+       HCTI_API_USER_ID: ${{ secrets.HCTI_API_USER_ID }}
+       HCTI_API_KEY: ${{ secrets.HCTI_API_KEY }}
+      run: bundle exec ruby generate.rb
+      
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v4
+      with:
+        author_name: Mike Coutermarsh
+        author_email: coutermarsh.mike@gmail.com
+        message: "Auto updating my readme!"
+        add: "*.md"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
