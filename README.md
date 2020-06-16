@@ -12,10 +12,10 @@ Hi, I'm Mike. An engineer for this website you are looking at right now. I work 
 |2020-06-15|7h 37m|50|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/2fabb4e6-1b14-4dbf-8599-e3f5af85c356" width="400">](https://twitter.com/mscccc/status/1271833482520494081)
+[<img src="https://hcti.io/v1/image/79490813-d032-40fc-97a4-1a1d6737aef5" width="400">](https://twitter.com/mscccc/status/1271833482520494081)
 
 ## Recent stars ⭐️
-iheanyi, andymckay, JasonEtco, cschleiden, mscoutermarsh, wilhelmklopp
+mxie, icncsx, joshmgross, iheanyi, andymckay, JasonEtco, cschleiden, mscoutermarsh, wilhelmklopp
 
 *Star [this repo](https://github.com/mscoutermarsh/mscoutermarsh), to add yourself here.*
 
