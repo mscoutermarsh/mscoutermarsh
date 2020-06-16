@@ -20,7 +20,7 @@ Stats pulled from a whoop band that I wear 24/7.
 [<img src="https://hcti.io/v1/image/aa4a6526-405d-4836-a2bd-bf2cfd62d032" width="400">](https://twitter.com/mscccc/status/1272974867554381824)
 
 ## Recent stars ⭐️
-nholden, smashwilson, nickvanw, diwms, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, joshmgross, iheanyi, andymckay, JasonEtco, cschleiden, mscoutermarsh, wilhelmklopp
+maestromac, nholden, smashwilson, nickvanw, diwms, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, joshmgross, iheanyi, andymckay, JasonEtco, cschleiden, mscoutermarsh, wilhelmklopp
 
 *Star [this repo](https://github.com/mscoutermarsh/mscoutermarsh), to add yourself here.*
 
