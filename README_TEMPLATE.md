@@ -1,7 +1,11 @@
 # Hello
-Hi, I'm Mike. An engineer for this website you are looking at right now. I work on GitHub [Actions](https://github.com/features/actions).
+Hi, I'm Mike. An engineer for this website you are looking at right now. I build GitHub [Actions](https://github.com/features/actions), which is used to generate this page.
+
+You may email me here: `mike.coutermarsh@hey.com` (just showing you how cool I am, I did this in my AIM away message when gmail first came out too)
 
 ## Sleep
+Stats pulled from a whoop band that I wear 24/7.
+
 <sleep-stats>
 
 ## Latest tweet
