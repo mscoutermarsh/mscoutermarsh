@@ -4,12 +4,12 @@ Hi, I'm Mike. An engineer for this website you are looking at right now. I work 
 ## Sleep
 |Day|Hours of sleep|Resting heart rate|
 |:-:|:-:|:-:|
-|2020-06-09|7h 21m|51|
 |2020-06-10|6h 40m|48|
 |2020-06-11|7h 56m|43|
 |2020-06-12|8h 4m|58|
 |2020-06-13|8h 8m|52|
 |2020-06-14|7h 42m|46|
+|2020-06-15|7h 37m|50|
 
 ## Latest tweet
 [<img src="https://hcti.io/v1/image/4963fa89-7701-45f5-b0a2-cf4d9d963653" width="400">](https://twitter.com/mscccc/status/1271833482520494081)
