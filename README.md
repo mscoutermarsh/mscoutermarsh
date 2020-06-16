@@ -6,21 +6,13 @@ You may email me here: `mike.coutermarsh@hey.com` (just showing you how cool I a
 ## Sleep
 Stats pulled from a whoop band that I wear 24/7.
 
-|Day|Hours of sleep|Resting heart rate|
-|:-:|:-:|:-:|
-|2020-06-10|6h 40m|48|
-|2020-06-11|7h 56m|43|
-|2020-06-12|8h 4m|58|
-|2020-06-13|8h 8m|52|
-|2020-06-14|7h 42m|46|
-|2020-06-15|7h 37m|50|
-|2020-06-16|8h 22m|45|
+
 
 ## Latest tweet
 [<img src="https://hcti.io/v1/image/f2df8509-4f2d-4311-af13-9adecf49b444" width="400">](https://twitter.com/mscccc/status/1272974867554381824)
 
 ## Recent stars ⭐️
-donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, diwms, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, joshmgross, iheanyi, andymckay, JasonEtco
+jpemberthy, donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, diwms, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, joshmgross, iheanyi, andymckay
 
 *Star [this repo](https://github.com/mscoutermarsh/mscoutermarsh), to add yourself here.*
 
