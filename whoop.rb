@@ -29,6 +29,7 @@ module Whoop
   rescue
     ""
   end
+
   def self.stats
     now =  (DateTime.now - 1).iso8601.gsub("+00:00", "Z")
     week_ago = (DateTime.now - 6).iso8601.gsub("+00:00", "Z")
@@ -52,5 +53,7 @@ module Whoop
     end
 
     MarkdownTables.make_table(labels, data, is_rows: true)
+  rescue
+    return ""
   end
 end
