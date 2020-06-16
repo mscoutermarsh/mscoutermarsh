@@ -9,3 +9,4 @@ gem "pry"
 gem "httparty"
 gem 'dotenv-rails'
 gem 'markdown-tables'
+gem "octokit", "~> 4.0"

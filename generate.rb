@@ -4,6 +4,7 @@ require_relative 'tweet_to_image.rb'
 require_relative 'whoop.rb'
 require 'twitter'
 require 'pry'
+require 'octokit'
 
 twitter = Twitter::REST::Client.new do |config|
   config.consumer_key        = ENV["TWITTER_CONSUMER_KEY"]
@@ -24,6 +25,10 @@ text = template.read
 
 whoop_data = Whoop.stats
 
+## Stars
+client = Octokit::Client.new(access_token: ENV['GITHUB_TOKEN'])
+recent_stars = client.stargazers("mscoutermarsh/mscoutermarsh").last(25).map(&:login)
+
 f = File.new('README.md', 'w')
-f.write(text.gsub("<tweet-image-url>", tweet_image).gsub("<tweet-url>", tweet_url).gsub("<sleep-stats>", whoop_data))
+f.write(text.gsub("<tweet-image-url>", tweet_image).gsub("<tweet-url>", tweet_url).gsub("<sleep-stats>", whoop_data).gsub("<stars>", recent_stars.join(", ")))
 f.close
