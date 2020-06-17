@@ -24,6 +24,6 @@ module TweetToImage
     });
 </script>"
 
-    HtmlCssToImage.url(html: html, ms_delay: 2500, google_fonts: "Roboto")
+    HtmlCssToImage.url(html: html, ms_delay: 2000, viewport_height: 800, viewport_width: 800, selector: ".tweet", google_fonts: "Roboto")
   end
 end
