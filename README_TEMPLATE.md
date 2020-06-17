@@ -11,7 +11,7 @@ Stats pulled from a whoop band that I wear 24/7.
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
 
-## Hall of fame ⭐️
+## Top <star-count> friends ⭐️
 <stars>
 
 *Star [this repo](https://github.com/mscoutermarsh/mscoutermarsh), to add yourself here.*

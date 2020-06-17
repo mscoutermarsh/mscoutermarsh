@@ -30,5 +30,5 @@ client = Octokit::Client.new(access_token: ENV['GITHUB_TOKEN'])
 recent_stars = client.stargazers("mscoutermarsh/mscoutermarsh", per_page: 100).map(&:login).reverse
 
 f = File.new('README.md', 'w')
-f.write(text.gsub("<tweet-image-url>", tweet_image).gsub("<tweet-url>", tweet_url).gsub("<sleep-stats>", whoop_data).gsub("<stars>", recent_stars.join(", ")))
+f.write(text.gsub("<star-count>", recent_stars.count.to_s).gsub("<tweet-image-url>", tweet_image).gsub("<tweet-url>", tweet_url).gsub("<sleep-stats>", whoop_data).gsub("<stars>", recent_stars.join(", ")))
 f.close
