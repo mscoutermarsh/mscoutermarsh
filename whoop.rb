@@ -31,7 +31,7 @@ module Whoop
   end
 
   def self.stats
-    now =  (DateTime.now).iso8601.gsub("+00:00", "Z")
+    now = (DateTime.now).iso8601.gsub("+00:00", "Z")
     week_ago = (DateTime.now - 6).iso8601.gsub("+00:00", "Z")
     puts now
     puts week_ago
@@ -54,6 +54,6 @@ module Whoop
 
     MarkdownTables.make_table(labels, data, is_rows: true)
   rescue
-    return ""
+    return "*Whoop API call failed, oh no!*"
   end
 end
