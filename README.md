@@ -18,8 +18,8 @@ Stats pulled from a whoop band that I wear 24/7.
 ## Latest tweet
 [<img src="https://hcti.io/v1/image/54689d3d-12d7-43ba-b258-572cd362be3c" width="400">](https://twitter.com/mscccc/status/1272974867554381824)
 
-## Top 34 friends ⭐️
-socheatsok78, bradpurchase, jclem, heimann, enriikke, jpemberthy, donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, diwms, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, joshmgross, iheanyi, andymckay, JasonEtco, cschleiden, mscoutermarsh, wilhelmklopp
+## Top 35 friends ⭐️
+itsaxay, socheatsok78, bradpurchase, jclem, heimann, enriikke, jpemberthy, donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, diwms, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, joshmgross, iheanyi, andymckay, JasonEtco, cschleiden, mscoutermarsh, wilhelmklopp
 
 *Star [this repo](https://github.com/mscoutermarsh/mscoutermarsh), to add yourself here.*
 
