@@ -45,7 +45,7 @@ const getToken = async () => {
   let token = await getToken()
 
   // Get secrets key and key_id so we can encrypt and set a secret
-  const octokit = new Octokit({auth: process.env.GITHUB_PAT});
+  const octokit = new Octokit({auth: process.env.GH_PAT});
   const publicKeyData = await octokit.actions.getRepoPublicKey({ owner: "mscoutermarsh", repo: "mscoutermarsh" });
   const key_id = publicKeyData.data.key_id
   const key = publicKeyData.data.key
