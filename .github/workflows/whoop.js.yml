@@ -1,0 +1,26 @@
+name: Refresh whoop token
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: 10.x
+      env:
+        WHOOP_PASSWORD: ${{ secrets.WHOOP_PASSWORD }}
+        WHOOP_USERNAME: ${{ secrets.WHOOP_USERNAME }}
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - run: npm install
+    - run: node updateWhoopKey.js
