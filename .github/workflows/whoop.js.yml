@@ -23,4 +23,4 @@ jobs:
       env:
         WHOOP_PASSWORD: ${{ secrets.WHOOP_PASSWORD }}
         WHOOP_USERNAME: ${{ secrets.WHOOP_USERNAME }}
-        GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+        GH_PAT: ${{ secrets.GH_PAT }}
