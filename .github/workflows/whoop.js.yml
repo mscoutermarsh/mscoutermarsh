@@ -17,10 +17,9 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 10.x
+    - run: npm install
+    - run: node updateWhoopKey.js
       env:
         WHOOP_PASSWORD: ${{ secrets.WHOOP_PASSWORD }}
         WHOOP_USERNAME: ${{ secrets.WHOOP_USERNAME }}
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - run: npm install
-    - run: node updateWhoopKey.js
