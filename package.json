@@ -1,0 +1,24 @@
+{
+  "name": "mscoutermarsh",
+  "version": "1.0.0",
+  "description": "Hi, I'm Mike. An engineer for this website you are looking at right now. I build GitHub [Actions](https://github.com/features/actions), which is used to generate this page.",
+  "main": "getWhoopKey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mscoutermarsh/mscoutermarsh.git"
+  },
+  "author": "Mike Coutermarsh <coutermarsh.mike@gmail.com> (https://mikecoutermarsh.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mscoutermarsh/mscoutermarsh/issues"
+  },
+  "homepage": "https://github.com/mscoutermarsh/mscoutermarsh#readme",
+  "dependencies": {
+    "@octokit/rest": "^18.0.0",
+    "puppeteer": "^4.0.0",
+    "tweetsodium": "0.0.5"
+  }
+}
