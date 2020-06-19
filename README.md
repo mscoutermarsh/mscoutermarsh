@@ -14,9 +14,10 @@ Stats pulled from a whoop band that I wear 24/7.
 |2020-06-16|8h 22m|45|
 |2020-06-17|7h 18m|53|
 |2020-06-18|7h 3m|45|
+|2020-06-19|7h 19m|47|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/1e8f8db6-4f84-455b-892e-b391c51f8cd3" width="400">](https://twitter.com/mscccc/status/1272974867554381824)
+[<img src="https://hcti.io/v1/image/069adae8-fdfb-4c22-9a75-39dce1f02c96" width="400">](https://twitter.com/mscccc/status/1272974867554381824)
 
 ## Top 48 friends ⭐️
 gokayokyay, doms, iMackson, tommylees112, krider2010, jimkang, vladimyr, marcelinollano, javierarce, hmarr, tmcw, Jsvcycling, baloran, ggamel, itsaxay, socheatsok78, bradpurchase, jclem, heimann, enriikke, jpemberthy, donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, joshmgross, iheanyi, andymckay, JasonEtco, cschleiden, mscoutermarsh, wilhelmklopp
