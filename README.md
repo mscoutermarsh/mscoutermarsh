@@ -8,7 +8,6 @@ Stats pulled from a whoop band that I wear 24/7.
 
 |Day|Hours of sleep|Resting heart rate|
 |:-:|:-:|:-:|
-|2020-06-13|8h 8m|52|
 |2020-06-14|7h 42m|46|
 |2020-06-15|7h 37m|50|
 |2020-06-16|8h 22m|45|
