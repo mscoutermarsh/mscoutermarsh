@@ -6,15 +6,7 @@ You may email me here: `mike.coutermarsh@hey.com` (just showing you how cool I a
 ## Sleep
 Stats pulled from a whoop band that I wear 24/7.
 
-|Day|Hours of sleep|Resting heart rate|
-|:-:|:-:|:-:|
-|2020-06-15|7h 37m|50|
-|2020-06-16|8h 22m|45|
-|2020-06-17|7h 18m|53|
-|2020-06-18|7h 3m|45|
-|2020-06-19|7h 19m|47|
-|2020-06-20|7h 46m|48|
-|2020-06-21|8h 8m|48|
+*Whoop API call failed, oh no!*
 
 ## Latest tweet
 [<img src="https://hcti.io/v1/image/164f4aa5-c629-4c8e-beb9-071e3442202c" width="400">](https://twitter.com/mscccc/status/1272974867554381824)
