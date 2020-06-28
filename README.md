@@ -14,6 +14,7 @@ Stats pulled from a whoop band that I wear 24/7.
 |2020-06-25|7h 16m|45|
 |2020-06-26|7h 33m|49|
 |2020-06-27|8h 14m|50|
+|2020-06-28|7h 58m|46|
 
 ## Latest tweet
 [<img src="https://hcti.io/v1/image/8e825df8-a6ad-40d2-94d8-d89172377b50" width="400">](https://twitter.com/mscccc/status/1275924780223475713)
