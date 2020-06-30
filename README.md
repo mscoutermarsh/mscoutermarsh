@@ -5,7 +5,6 @@ Stats pulled from a whoop band that I wear 24/7.
 
 |Day|Hours of sleep|Resting heart rate|
 |:-:|:-:|:-:|
-|2020-06-23|7h 38m|53|
 |2020-06-24|7h 14m|49|
 |2020-06-25|7h 16m|45|
 |2020-06-26|7h 33m|49|
@@ -14,7 +13,7 @@ Stats pulled from a whoop band that I wear 24/7.
 |2020-06-29|8h 8m|54|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/8c223c86-93dd-4b8b-8b85-9ead90072b49" width="400">](https://twitter.com/mscccc/status/1275924780223475713)
+[<img src="https://hcti.io/v1/image/365bb851-83c4-4ea8-85d1-a40a217365b4" width="400">](https://twitter.com/mscccc/status/1275924780223475713)
 
 ## Top 53 friends ⭐️
 anamul430470, yg, hashtagchris, airzinger, tracydemery36, gokayokyay, doms, iMackson, tommylees112, krider2010, jimkang, vladimyr, marcelinollano, javierarce, hmarr, tmcw, jsvcycling, baloran, ggamel, itsaxay, socheatsok78, bradpurchase, jclem, heimann, enriikke, jpemberthy, donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, joshmgross, iheanyi, andymckay, JasonEtco, cschleiden, mscoutermarsh, wilhelmklopp
