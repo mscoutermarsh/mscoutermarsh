@@ -9,6 +9,6 @@ module TweetToImage
 
 </blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>"
 
-    HtmlCssToImage.url(html: html, ms_delay: 1500, selector: ".twitter-tweet")
+    HtmlCssToImage.url(html: html, ms_delay: 3000, selector: ".twitter-tweet")
   end
 end
