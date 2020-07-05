@@ -2,28 +2,15 @@ require_relative "html_css_to_image.rb"
 
 module TweetToImage
   def self.url(tweet_id)
-    html = "<div style='display: inline-block'>
-  <div class=\"tweet\" id='#{tweet_id}'></div>
-</div>
-<script src='https://code.jquery.com/jquery-3.4.0.slim.min.js'
-  integrity='sha256-ZaXnYkHGqIhqTbJ6MB4l9Frs/r7U4jlx7ir8PJYBqbI='
-  crossorigin=\"anonymous\"></script>
-<script src=\"http://platform.twitter.com/widgets.js\"></script>
-<script>
-  var tweets = $(\".tweet\");
-  $(tweets).each( function( t, tweet ) {
-    var id = $(this).attr('id');
-    twttr.widgets.createTweet(
-      id, tweet,
-      {
-        conversation : 'none',
-        cards        : 'hidden',
-        linkColor    : '#cc0000',
-        theme        : 'light'
-      });
-    });
-</script>"
+    html = `
+<blockquote class="twitter-tweet" style="width: 400px;" data-dnt="true">
+<p lang="en" dir="ltr"></p>
 
-    HtmlCssToImage.url(html: html, ms_delay: 2000, viewport_height: 800, viewport_width: 800, selector: ".tweet", google_fonts: "Roboto")
+<a href="https://twitter.com/fortnitegame/status/#{tweet_id}"></a>
+
+</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    `
+
+    HtmlCssToImage.url(html: html, ms_delay: 1500, selector: ".twitter-tweet")
   end
 end
