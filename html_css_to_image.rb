@@ -8,8 +8,11 @@ module HtmlCssToImage
     image = HTTParty.post("https://hcti.io/v1/image",
                           body: { html: html, css: css, google_fonts: google_fonts, ms_delay: ms_delay, selector: selector },
                           basic_auth: AUTH)
-    puts image
 
-    image["url"]
+    url = image["url"]
+
+    HTTParty.get(url)
+
+    url
   end
 end
