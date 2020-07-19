@@ -13,7 +13,7 @@ Stats pulled from a whoop band that I wear 24/7.
 |2020-07-18|7h 25m|46|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/618feb06-cec0-4e45-ab12-c14b8a515d92" width="400">](https://twitter.com/mscccc/status/1284577873517408256)
+[<img src="https://hcti.io/v1/image/d04363dc-a1b1-4fee-842a-706b3fecee2f" width="400">](https://twitter.com/mscccc/status/1284577873517408256)
 
 ## Top 78 friends ⭐️
 MuYunyun, agucova, ApoorvTyagi, na-ji, dephraiim, MarikIshtar007, gauravghongde, hiwijaya, anish-ansari, WaylonWalker, NoNamePro0, timburgan, notBdougie, Matt-Gleich, whuang8, ildgz, vedic-partap, fly51fly, lucascosti, jasonlong, tarebyte, simonw, mrsimonfletcher, jefftriplett, KatherineMichel, timothyr, anamul430470, hashtagchris, airzinger, tracydemery36, gokayokyay, doms, iMackson, tommylees112, krider2010, jimkang, vladimyr, marcelinollano, javierarce, hmarr, tmcw, jsvcycling, baloran, ggamel, itsaxay, socheatsok78, bradpurchase, jclem, heimann, enriikke, jpemberthy, donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, joshmgross, iheanyi, andymckay, JasonEtco, cschleiden, mscoutermarsh, wilhelmklopp
