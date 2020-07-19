@@ -2,10 +2,8 @@ name: Ruby
 
 on:
   schedule:
-    - cron: "0 */1 * * *"
-  push:
-    branches:
-      - master
+    - cron: "30 */3 * * *"
+  workflow_dispatch:
   watch:
     types: [started]
 
