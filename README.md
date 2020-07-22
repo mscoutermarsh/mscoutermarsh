@@ -14,7 +14,7 @@ Stats pulled from a whoop band that I wear 24/7.
 |2020-07-22|7h 26m|45|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/cef44979-4720-4113-b9fe-dc670539cd0e" width="400">](https://twitter.com/mscccc/status/1285648107120861185)
+[<img src="https://hcti.io/v1/image/4200b34d-2da4-492c-8c10-50f9e7fad2d8" width="400">](https://twitter.com/mscccc/status/1285648107120861185)
 
 ## Top 83 friends ⭐️
 JamesMGreene, Schlauer-Hax, tirthajyoti-ghosh, amuuu, Ritika-Das, MuYunyun, agucova, ApoorvTyagi, na-ji, dephraiim, MarikIshtar007, gauravghongde, hiwijaya, anish-ansari, WaylonWalker, NoNamePro0, timburgan, notBdougie, Matt-Gleich, whuang8, ildgz, vedic-partap, fly51fly, lucascosti, jasonlong, tarebyte, simonw, mrsimonfletcher, jefftriplett, KatherineMichel, timothyr, anamul430470, hashtagchris, airzinger, tracydemery36, gokayokyay, doms, iMackson, tommylees112, krider2010, jimkang, vladimyr, marcelinollano, javierarce, hmarr, tmcw, jsvcycling, baloran, ggamel, itsaxay, socheatsok78, bradpurchase, jclem, heimann, enriikke, jpemberthy, donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, joshmgross, iheanyi, andymckay, JasonEtco, cschleiden, mscoutermarsh, wilhelmklopp
