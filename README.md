@@ -5,7 +5,6 @@ Stats pulled from a whoop band that I wear 24/7.
 
 |Day|Hours of sleep|Resting heart rate|
 |:-:|:-:|:-:|
-|2020-07-17|7h 18m|49|
 |2020-07-18|7h 25m|46|
 |2020-07-19|7h 58m|44|
 |2020-07-20|7h 11m|43|
@@ -14,7 +13,7 @@ Stats pulled from a whoop band that I wear 24/7.
 |2020-07-23|8h 14m|44|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/1307115d-656c-49db-bf86-5662ff22607d" width="400">](https://twitter.com/mscccc/status/1286299515603914754)
+[<img src="https://hcti.io/v1/image/24897fd1-018d-453b-9cf4-3b67f1db5b6a" width="400">](https://twitter.com/mscccc/status/1286299515603914754)
 
 ## Top 84 friends ⭐️
 gargakshit, JamesMGreene, Schlauer-Hax, tirthajyoti-ghosh, amuuu, Ritika-Das, MuYunyun, agucova, ApoorvTyagi, na-ji, dephraiim, MarikIshtar007, gauravghongde, hiwijaya, anish-ansari, WaylonWalker, NoNamePro0, timburgan, notBdougie, Matt-Gleich, whuang8, ildgz, vedic-partap, fly51fly, lucascosti, jasonlong, tarebyte, simonw, mrsimonfletcher, jefftriplett, KatherineMichel, timothyr, anamul430470, hashtagchris, airzinger, tracydemery36, gokayokyay, doms, iMackson, tommylees112, krider2010, jimkang, vladimyr, marcelinollano, javierarce, hmarr, tmcw, jsvcycling, baloran, ggamel, itsaxay, socheatsok78, bradpurchase, jclem, heimann, enriikke, jpemberthy, donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, joshmgross, iheanyi, andymckay, JasonEtco, cschleiden, mscoutermarsh, wilhelmklopp
