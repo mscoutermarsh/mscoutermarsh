@@ -11,9 +11,10 @@ Stats pulled from a whoop band that I wear 24/7.
 |2020-07-24|8h 2m|44|
 |2020-07-25|8h 0m|45|
 |2020-07-26|7h 22m|48|
+|2020-07-27|8h 3m|51|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/54472e3c-0804-4951-bcac-18d3b6e0dba2" width="400">](https://twitter.com/mscccc/status/1287561851304202240)
+[<img src="https://hcti.io/v1/image/d3139486-5a8c-424d-a00a-def6a4e5ebf0" width="400">](https://twitter.com/mscccc/status/1287561851304202240)
 
 ## Top 85 friends ⭐️
 OmgImAlexis, gargakshit, JamesMGreene, Schlauer-Hax, tirthajyoti-ghosh, amuuu, Ritika-Das, MuYunyun, agucova, ApoorvTyagi, na-ji, dephraiim, MarikIshtar007, gauravghongde, hiwijaya, anish-ansari, WaylonWalker, NoNamePro0, timburgan, notBdougie, Matt-Gleich, whuang8, ildgz, vedic-partap, fly51fly, lucascosti, jasonlong, tarebyte, simonw, mrsimonfletcher, jefftriplett, KatherineMichel, timothyr, anamul430470, hashtagchris, airzinger, tracydemery36, gokayokyay, doms, iMackson, tommylees112, krider2010, jimkang, vladimyr, marcelinollano, javierarce, hmarr, tmcw, jsvcycling, baloran, ggamel, itsaxay, socheatsok78, bradpurchase, jclem, heimann, enriikke, jpemberthy, donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, joshmgross, iheanyi, andymckay, JasonEtco, cschleiden, mscoutermarsh, wilhelmklopp
