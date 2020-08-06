@@ -13,7 +13,7 @@ Stats pulled from a whoop band that I wear 24/7.
 |2020-08-05|8h 31m|46|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/e2d4af10-4fb7-4020-8cc0-1038c0e373f5" width="400">](https://twitter.com/mscccc/status/1291142613999865856)
+[<img src="https://hcti.io/v1/image/4b92e720-c860-41d1-9687-a01c0aa77b10" width="400">](https://twitter.com/mscccc/status/1291142613999865856)
 
 ## Top 88 friends ⭐️
 mamun2425, katungi, mzaini30, jatin-rathee, OmgImAlexis, gargakshit, JamesMGreene, Schlauer-Hax, tirthajyoti-ghosh, amuuu, Ritika-Das, MuYunyun, agucova, ApoorvTyagi, na-ji, dephraiim, MarikIshtar007, gauravghongde, hiwijaya, anish-ansari, WaylonWalker, NoNamePro0, timburgan, notBdougie, Matt-Gleich, whuang8, ildgz, vedic-partap, fly51fly, lucascosti, jasonlong, tarebyte, simonw, mrsimonfletcher, jefftriplett, KatherineMichel, timothyr, anamul430470, hashtagchris, airzinger, tracydemery36, gokayokyay, doms, iMackson, tommylees112, krider2010, jimkang, vladimyr, marcelinollano, javierarce, hmarr, tmcw, baloran, ggamel, itsaxay, socheatsok78, bradpurchase, jclem, heimann, enriikke, jpemberthy, donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, joshmgross, iheanyi, andymckay, JasonEtco, cschleiden, mscoutermarsh, wilhelmklopp
