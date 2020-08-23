@@ -11,9 +11,10 @@ Stats pulled from a whoop band that I wear 24/7.
 |2020-08-20|7h 22m|46|
 |2020-08-21|7h 23m|46|
 |2020-08-22|7h 30m|47|
+|2020-08-23|7h 25m|47|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/6b4756e0-5ff4-4c78-abfb-eb4d0ec3918f" width="400">](https://twitter.com/mscccc/status/1297240110165979136)
+[<img src="https://hcti.io/v1/image/d8e05807-55bb-4609-a611-ac56f229a7aa" width="400">](https://twitter.com/mscccc/status/1297240110165979136)
 
 ## Top 96 friends ⭐️
 lyquita, susanka068, tcbyrd, travisbyr, kallyas, IsXGeo, rzhade3, sciencepal, mamun2425, katungi, mzaini30, jatin-rathee, OmgImAlexis, gargakshit, JamesMGreene, Schlauer-Hax, tirthajyoti-ghosh, amuuu, Ritika-Das, MuYunyun, agucova, ApoorvTyagi, na-ji, dephraiim, MarikIshtar007, gauravghongde, hiwijaya, anish-ansari, WaylonWalker, NoNamePro0, timburgan, notBdougie, Matt-Gleich, whuang8, ildgz, vedic-partap, fly51fly, lucascosti, jasonlong, tarebyte, simonw, mrsimonfletcher, jefftriplett, KatherineMichel, timothyr, anamul430470, hashtagchris, airzinger, tracydemery36, gokayokyay, doms, iMackson, tommylees112, krider2010, jimkang, vladimyr, marcelinollano, javierarce, hmarr, tmcw, baloran, ggamel, itsaxay, socheatsok78, bradpurchase, jclem, heimann, enriikke, jpemberthy, donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, joshmgross, iheanyi, andymckay, JasonEtco, cschleiden, mscoutermarsh, wilhelmklopp
