@@ -11,9 +11,10 @@ Stats pulled from a whoop band that I wear 24/7.
 |2020-09-22|8h 54m|55|
 |2020-09-23|7h 59m|48|
 |2020-09-24|7h 42m|43|
+|2020-09-25|6h 36m|44|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/956c1526-0d24-4f7b-944a-f7ae0390357b" width="400">](https://twitter.com/mscccc/status/1308849622887038976)
+[<img src="https://hcti.io/v1/image/09c82d78-c5f5-4e4b-a0d9-a10ad2dedee9" width="400">](https://twitter.com/mscccc/status/1308849622887038976)
 
 ## Top 100 friends ⭐️
 brendanmurty, mscoutermarsh, dfreilich, vaimalaviya1233, jahirfiquitiva, lyquita, susanka068, tcbyrd, travisbyr, kallyas, IsXGeo, rzhade3, sciencepal, mamun2425, katungi, mzaini30, jatin-rathee, OmgImAlexis, gargakshit, JamesMGreene, Schlauer-Hax, tirthajyoti-ghosh, amuuu, Ritika-Das, MuYunyun, agucova, ApoorvTyagi, na-ji, dephraiim, MarikIshtar007, gauravghongde, hiwijaya, anish-ansari, WaylonWalker, NoNamePro0, timburgan, notBdougie, Matt-Gleich, whuang8, ildgz, vedic-partap, fly51fly, lucascosti, jasonlong, tarebyte, simonw, mrsimonfletcher, jefftriplett, KatherineMichel, timothyr, anamul430470, hashtagchris, airzinger, tracydemery36, gokayokyay, doms, iMackson, tommylees112, krider2010, jimkang, vladimyr, marcelinollano, javierarce, hmarr, tmcw, baloran, ggamel, itsaxay, socheatsok78, bradpurchase, jclem, heimann, enriikke, jpemberthy, donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, joshmgross, iheanyi, andymckay, JasonEtco, cschleiden, wilhelmklopp
