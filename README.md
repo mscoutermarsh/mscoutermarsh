@@ -5,7 +5,6 @@ Stats pulled from a whoop band that I wear 24/7.
 
 |Day|Hours of sleep|Resting heart rate|
 |:-:|:-:|:-:|
-|2020-12-06|7h 28m|46|
 |2020-12-07|8h 9m|41|
 |2020-12-08|7h 40m|44|
 |2020-12-09|6h 49m|44|
@@ -14,7 +13,7 @@ Stats pulled from a whoop band that I wear 24/7.
 |2020-12-12|8h 27m|45|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/a42e7173-7e24-47e8-bb69-002e0186542c" width="400">](https://twitter.com/mscccc/status/1337483655841787905)
+[<img src="https://hcti.io/v1/image/9c734f78-62cd-4aa1-a119-963204eb7f1d" width="400">](https://twitter.com/mscccc/status/1337483655841787905)
 
 ## Top 127 friends ⭐️
 brendanmurty, mscoutermarsh, dfreilich, vaimalaviya1233, jahirfiquitiva, lyquita, susanka068, tcbyrd, travisbyr, kallyas, IsXGeo, rzhade3, sciencepal, mamun2425, katungi, mzaini30, jatin-rathee, OmgImAlexis, gargakshit, JamesMGreene, Schlauer-Hax, tirthajyoti-ghosh, amuuu, Ritika-Das, MuYunyun, agucova, ApoorvTyagi, na-ji, dephraiim, MarikIshtar007, gauravghongde, hiwijaya, anish-ansari, WaylonWalker, NoNamePro0, timburgan, notBdougie, Matt-Gleich, whuang8, ildgz, vedic-partap, fly51fly, lucascosti, jasonlong, tarebyte, simonw, mrsimonfletcher, jefftriplett, KatherineMichel, timothyr, anamul430470, hashtagchris, airzinger, tracydemery36, gokayokyay, doms, iMackson, tommylees112, krider2010, jimkang, vladimyr, marcelinollano, javierarce, hmarr, tmcw, baloran, ggamel, itsaxay, socheatsok78, bradpurchase, jclem, heimann, enriikke, jpemberthy, donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, joshmgross, iheanyi, andymckay, JasonEtco, cschleiden, wilhelmklopp, johnletey, 0xLeif, lukew3, arafat-hasan, CrazyChickenDev, NihalV123, thedoodler, pyrih, bojdell, Vedrine, lowlighter, qbtl, hedythedev, fcomovaz, dereknguyen269, AugustinJose1221, khanraisa124, ABSphreak, bsoyka, eagleanurag, anmol098, injoon5, araguaci, Temtaime, AdamMomen, prakashsellathurai, WillAbides
