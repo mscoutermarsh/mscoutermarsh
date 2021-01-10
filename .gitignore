@@ -1,3 +1,4 @@
 vendor
+secrets
 .env
 node_modules

@@ -13,7 +13,7 @@ twitter = Twitter::REST::Client.new do |config|
   config.access_token_secret = ENV["TWITTER_ACCESS_TOKEN_SECRET"]
 end
 
-latest_tweet = twitter.user_timeline("mscccc", count: 1, exclude_replies: true, include_rts: false).first
+latest_tweet = twitter.user_timeline("mscccc", count: 15, exclude_replies: true, include_rts: false).first
 tweet_id = latest_tweet.id
 tweet_url = latest_tweet.uri.to_s
 
