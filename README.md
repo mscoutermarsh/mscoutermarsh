@@ -5,7 +5,6 @@ Stats pulled from a whoop band that I wear 24/7.
 
 |Day|Hours of sleep|Resting heart rate|
 |:-:|:-:|:-:|
-|2021-01-16|8h 2m|48|
 |2021-01-17|7h 38m|50|
 |2021-01-18|8h 31m|48|
 |2021-01-19|7h 13m|44|
@@ -14,7 +13,7 @@ Stats pulled from a whoop band that I wear 24/7.
 |2021-01-22|8h 13m|58|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/68c63651-8ee3-4ed1-829f-c78fa89009f8" width="400">](https://twitter.com/mscccc/status/1352642031076728834)
+[<img src="https://hcti.io/v1/image/d920f101-64a4-4836-8a60-ef8bf0bcd256" width="400">](https://twitter.com/mscccc/status/1352642031076728834)
 
 ## Top 132 friends ⭐️
 WillAbides, brendanmurty, mscoutermarsh, dfreilich, vaimalaviya1233, jahirfiquitiva, lyquita, susanka068, tcbyrd, travisbyr, kallyas, IsXGeo, rzhade3, sciencepal, mamun2425, katungi, mzaini30, jatin-rathee, OmgImAlexis, gargakshit, JamesMGreene, Schlauer-Hax, tirthajyoti-ghosh, amuuu, Ritika-Das, MuYunyun, agucova, ApoorvTyagi, na-ji, dephraiim, MarikIshtar007, gauravghongde, hiwijaya, anish-ansari, WaylonWalker, NoNamePro0, timburgan, notBdougie, Matt-Gleich, whuang8, ildgz, vedic-partap, fly51fly, lucascosti, jasonlong, tarebyte, simonw, mrsimonfletcher, jefftriplett, KatherineMichel, timothyr, anamul430470, hashtagchris, airzinger, tracydemery36, gokayokyay, doms, iMackson, tommylees112, krider2010, jimkang, vladimyr, marcelinollano, javierarce, hmarr, tmcw, baloran, ggamel, b8x, socheatsok78, bradpurchase, jclem, heimann, enriikke, jpemberthy, donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, iheanyi, andymckay, JasonEtco, cschleiden, wilhelmklopp, quackduck, myl989, cjdenio, BenNeighbour, adhaamehab, ojaha065, Lydzx, johnletey, 0xLeif, lukew3, arafat-hasan, CrazyChickenDev, NihalV123, pyrih, bojdell, Vedrine, lowlighter, qbtl, hedythedev, fcomovaz, dereknguyen269, AugustinJose1221, khanraisa124, ABSphreak, bsoyka, eagleanurag, anmol098, injoon5, araguaci, Temtaime, AdamMomen, prakashsellathurai
