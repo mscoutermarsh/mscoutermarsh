@@ -11,9 +11,10 @@ Stats pulled from a whoop band that I wear 24/7.
 |2021-02-28|7h 36m|55|
 |2021-03-01|8h 4m|52|
 |2021-03-02|5h 29m|48|
+|2021-03-03|8h 15m|48|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/41cd7263-bbd2-44b8-81bb-aa91700b1e19" width="400">](https://twitter.com/mscccc/status/1366809284982546432)
+[<img src="https://hcti.io/v1/image/40c5dbe2-321a-42d4-9d2b-85f8a600ffbb" width="400">](https://twitter.com/mscccc/status/1366809284982546432)
 
 ## Top 140 friends ⭐️
 prakashsellathurai, WillAbides, brendanmurty, mscoutermarsh, dfreilich, vaimalaviya1233, jahirfiquitiva, lyquita, susanka068, tcbyrd, travisbyr, kallyas, IsXGeo, rzhade3, sciencepal, mamun2425, katungi, mzaini30, jatin-rathee, OmgImAlexis, gargakshit, JamesMGreene, Schlauer-Hax, tirthajyoti-ghosh, amuuu, Ritika-Das, MuYunyun, agucova, na-ji, dephraiim, MarikIshtar007, gauravghongde, hiwijaya, anish-ansari, WaylonWalker, NoNamePro0, timburgan, notBdougie, Matt-Gleich, whuang8, ildgz, vedic-partap, fly51fly, lucascosti, jasonlong, tarebyte, simonw, mrsimonfletcher, jefftriplett, KatherineMichel, timothyr, anamul430470, hashtagchris, airzinger, tracydemery36, gokayokyay, doms, iMackson, tommylees112, krider2010, jimkang, vladimyr, marcelinollano, javierarce, hmarr, tmcw, baloran, ggamel, b8x, socheatsok78, bradpurchase, jclem, heimann, enriikke, jpemberthy, donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, icncsx, iheanyi, andymckay, JasonEtco, cschleiden, wilhelmklopp, kjaksik, JavaCode7, xPapla, CesarAugusto15, ArthurFiorette, alexawesomecode, Mridul2820, DanRowe, sohansubhash, quackduck, myl989, cjdenio, BenNeighbour, adhaamehab, ojaha065, Lydzx, johnletey, 0xLeif, lukew3, arafat-hasan, CrazyChickenDev, NihalV123, pyrih, bojdell, Vedrine, lowlighter, qbtl, hedythedev, fcomovaz, dereknguyen269, AugustinJose1221, khanraisa124, ABSphreak, bsoyka, eagleanurag, anmol098, injoon5, araguaci, Temtaime, AdamMomen
