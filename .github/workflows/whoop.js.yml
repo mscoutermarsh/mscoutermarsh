@@ -2,7 +2,7 @@ name: Refresh whoop token
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "42 1 * * *"
 
 jobs:
   build:
