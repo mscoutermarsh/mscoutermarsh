@@ -2,7 +2,7 @@ name: Ruby
 
 on:
   schedule:
-    - cron: "30 */3 * * *"
+    - cron: "42 */6 * * *"
   workflow_dispatch:
   watch:
     types: [started]
