@@ -46,7 +46,7 @@ jobs:
       uses: EndBug/add-and-commit@v4
       with:
         author_name: Mike Coutermarsh
-        author_email: coutermarsh.mike@gmail.com
+        author_email: coutermarsh.mike+robot@gmail.com
         message: "Auto updating my readme!"
         add: "*.md"
       env:
