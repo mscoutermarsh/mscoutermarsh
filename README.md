@@ -5,7 +5,6 @@ Stats pulled from a whoop band that I wear 24/7.
 
 |Day|Hours of sleep|Resting heart rate|
 |:-:|:-:|:-:|
-|2021-04-20|7h 35m|49|
 |2021-04-21|7h 30m|56|
 |2021-04-22|9h 31m|56|
 |2021-04-23|7h 43m|54|
@@ -14,7 +13,7 @@ Stats pulled from a whoop band that I wear 24/7.
 |2021-04-26|7h 9m|45|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/6d53a9db-a9f0-4a2e-9cb3-68d09a2a7ceb" width="400">](https://twitter.com/mscccc/status/1384859875373617156)
+[<img src="https://hcti.io/v1/image/b1f5fa9b-1d5e-42f2-a449-18fc28a096e1" width="400">](https://twitter.com/mscccc/status/1384859875373617156)
 
 ## Top 160 friends ⭐️
 AdamMomen, prakashsellathurai, WillAbides, brendanmurty, mscoutermarsh, dfreilich, vaimalaviya1233, jahirfiquitiva, lyquita, susanka068, tcbyrd, travisbyr, kallyas, IsXGeo, rzhade3, sciencepal, mamun2425, katungi, mzaini30, jatin-rathee, OmgImAlexis, gargakshit, JamesMGreene, Schlauer-Hax, tirthajyoti-ghosh, amuuu, Ritika-Das, MuYunyun, agucova, na-ji, dephraiim, MarikIshtar007, gauravghongde, hiwijaya, anish-ansari, WaylonWalker, NoNamePro0, timburgan, notBdougie, Matt-Gleich, whuang8, ildgz, vedic-partap, fly51fly, lucascosti, jasonlong, tarebyte, simonw, mrsimonfletcher, jefftriplett, KatherineMichel, timothyr, anamul430470, hashtagchris, airzinger, tracydemery36, gokayokyay, doms, iMackson, tommylees112, krider2010, jimkang, vladimyr, marcelinollano, javierarce, hmarr, tmcw, baloran, ggamel, b8x, socheatsok78, bradpurchase, jclem, heimann, enriikke, jpemberthy, donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, iheanyi, andymckay, JasonEtco, cschleiden, wilhelmklopp, Anidimma, jayphills76, casswedson, Muhammadariesta, dayne, ItalianSquirel, elsaxo, Isabel-Lifu-211207-XPrado, TurnipGuy30, fahd-akbar, whippingdot, T4533N, darkdarcool, EpicGamer007, RayhanADev, tfSheol, Eandalf, adejorosam, Rohith04MVK, Dazt5, marcoroth, andrewmcodes, billyeatcookies, kjaksik, JavaCode7, xPapla, CesarAugusto15, alexawesomecode, Mridul2820, DanRowe, sohansubhash, quackduck, myl989, cjdenio, BenNeighbour, adhaamehab, ojaha065, johnletey, 0xLeif, lukew3, arafat-hasan, CrazyChickenDev, NihalV123, pyrih, bojdell, sebastien-vedrine, lowlighter, qbtl, hedythedev, fcomovaz, dereknguyen269, AugustinJose1221, khanraisa124, ABSphreak, bsoyka, eagleanurag, anmol098, injoon5, araguaci, Temtaime
