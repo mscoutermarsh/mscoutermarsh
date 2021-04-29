@@ -11,9 +11,10 @@ Stats pulled from a whoop band that I wear 24/7.
 |2021-04-26|7h 9m|45|
 |2021-04-27|8h 5m|53|
 |2021-04-28|8h 9m|49|
+|2021-04-29|8h 15m|49|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/d9801351-320b-4a56-ac4b-d18a7c41e1d6" width="400">](https://twitter.com/mscccc/status/1387422732904812546)
+[<img src="https://hcti.io/v1/image/1ed45105-5b37-4964-8cbd-8a8882500f78" width="400">](https://twitter.com/mscccc/status/1387422732904812546)
 
 ## Top 160 friends ⭐️
 AdamMomen, prakashsellathurai, WillAbides, brendanmurty, mscoutermarsh, dfreilich, vaimalaviya1233, jahirfiquitiva, lyquita, susanka068, tcbyrd, travisbyr, kallyas, IsXGeo, rzhade3, sciencepal, mamun2425, katungi, mzaini30, jatin-rathee, OmgImAlexis, gargakshit, JamesMGreene, Schlauer-Hax, tirthajyoti-ghosh, amuuu, Ritika-Das, MuYunyun, agucova, na-ji, dephraiim, MarikIshtar007, gauravghongde, hiwijaya, anish-ansari, WaylonWalker, NoNamePro0, timburgan, notBdougie, Matt-Gleich, whuang8, ildgz, vedic-partap, fly51fly, lucascosti, jasonlong, tarebyte, simonw, mrsimonfletcher, jefftriplett, KatherineMichel, timothyr, anamul430470, hashtagchris, airzinger, tracydemery36, gokayokyay, doms, iMackson, tommylees112, krider2010, jimkang, vladimyr, marcelinollano, javierarce, hmarr, tmcw, baloran, ggamel, b8x, socheatsok78, bradpurchase, jclem, heimann, enriikke, jpemberthy, donokuda, BenEmdon, nixpad, eliperkins, maestromac, nholden, smashwilson, nickvanw, ryangjchandler, mxschmitt, m1guelpf, piratebroadcast, muan, andreasklinger, nhuebecker, hfaulds, Ilshidur, cdb, mxie, iheanyi, andymckay, JasonEtco, cschleiden, wilhelmklopp, 0xkhan, Anidimma, jayphills76, casswedson, dayne, ItalianSquirel, elsaxo, Isabel-Lifu-211207-XPrado, TurnipGuy30, fahd-akbar, whippingdot, T4533N, darkdarcool, EpicGamer007, RayhanADev, tfSheol, Eandalf, adejorosam, Rohith04MVK, Dazt5, marcoroth, andrewmcodes, billyeatcookies, kjaksik, JavaCode7, xPapla, CesarAugusto15, alexawesomecode, Mridul2820, DanRowe, sohansubhash, quackduck, myl989, cjdenio, BenNeighbour, adhaamehab, ojaha065, johnletey, 0xLeif, lukew3, arafat-hasan, CrazyChickenDev, NihalV123, pyrih, bojdell, sebastien-vedrine, lowlighter, qbtl, hedythedev, fcomovaz, dereknguyen269, AugustinJose1221, khanraisa124, ABSphreak, bsoyka, eagleanurag, anmol098, injoon5, araguaci, Temtaime
