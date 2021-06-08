@@ -5,7 +5,6 @@ Stats pulled from a whoop band that I wear 24/7.
 
 |Day|Hours of sleep|Resting heart rate|
 |:-:|:-:|:-:|
-|2021-06-01|5h 27m|60|
 |2021-06-02|6h 16m|53|
 |2021-06-03|8h 17m|53|
 |2021-06-04|8h 32m|49|
