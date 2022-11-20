@@ -23,7 +23,7 @@ tweet_image = TweetToImage.url(tweet_id)
 template = File.open('README_TEMPLATE.md', 'r')
 text = template.read
 
-whoop_data = Whoop.stats
+# whoop_data = Whoop.stats
 
 ## Stars
 client = Octokit::Client.new(access_token: ENV['GITHUB_TOKEN'])
@@ -32,5 +32,5 @@ recent_stars2 = client.stargazers("mscoutermarsh/mscoutermarsh", per_page: 100, 
 recent_stars = recent_stars + recent_stars2
 
 f = File.new('README.md', 'w')
-f.write(text.gsub("<star-count>", recent_stars.count.to_s).gsub("<tweet-image-url>", tweet_image).gsub("<tweet-url>", tweet_url).gsub("<sleep-stats>", whoop_data).gsub("<stars>", recent_stars.join(", ")))
+f.write(text.gsub("<star-count>", recent_stars.count.to_s).gsub("<tweet-image-url>", tweet_image).gsub("<tweet-url>", tweet_url).gsub("<stars>", recent_stars.join(", ")))
 f.close
