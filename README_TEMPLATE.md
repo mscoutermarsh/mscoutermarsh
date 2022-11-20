@@ -1,10 +1,5 @@
 ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/Enter_Mike.gif?raw=true)
 
-## Sleep
-Stats pulled from a whoop band that I wear 24/7.
-
-<sleep-stats>
-
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
 
