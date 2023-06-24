@@ -1,8 +1,5 @@
 ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/Enter_Mike.gif?raw=true)
 
-## Latest tweet
-[<img src="<tweet-image-url>" width="400">](<tweet-url>)
-
 ## Top <star-count> friends ⭐️
 <stars>
 
