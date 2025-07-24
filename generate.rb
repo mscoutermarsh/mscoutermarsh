@@ -30,7 +30,8 @@ client = Octokit::Client.new(access_token: ENV['GITHUB_TOKEN'])
 recent_stars = client.stargazers("mscoutermarsh/mscoutermarsh", per_page: 100).map(&:login).reverse
 recent_stars2 = client.stargazers("mscoutermarsh/mscoutermarsh", per_page: 100, page: 2).map(&:login).reverse
 recent_stars3 = client.stargazers("mscoutermarsh/mscoutermarsh", per_page: 100, page: 3).map(&:login).reverse
-recent_stars = recent_stars + recent_stars2 + recent_stars3
+recent_stars4 = client.stargazers("mscoutermarsh/mscoutermarsh", per_page: 100, page: 4).map(&:login).reverse
+recent_stars = recent_stars + recent_stars2 + recent_stars3 + recent_stars4
 
 f = File.new('README.md', 'w')
 f.write(text.gsub("<star-count>", recent_stars.count.to_s).gsub("<stars>", recent_stars.join(", ")))
